@@ -1,3 +1,2 @@
 # hello_world
-
-## HELLO WORLD!
+HELLO WORLD!
